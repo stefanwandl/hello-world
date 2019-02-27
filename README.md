@@ -1,2 +1,6 @@
 # hello-world
-Just for testing purposes
+
+Hi!
+
+This is my first repository and I live on Mars.
+Trust me.
